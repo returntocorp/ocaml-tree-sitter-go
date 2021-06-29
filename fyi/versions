@@ -1,0 +1,32 @@
+File: semgrep-grammars/src/tree-sitter-go/LICENSE
+Git repo name: tree-sitter-go
+Latest commit in repo: dadfd9c9aab2630632e61cfce645c13c35aa092f
+Last change in file:
+  commit d29ad53a4310a943880ae40c7050f8562bf84f33
+  Author: Max Brunsfeld <maxbrunsfeld@gmail.com>
+  Date:   Tue Aug 16 21:02:37 2016 -0700
+  
+      Start on top-level constructs, const declarations
+---
+File: semgrep-grammars/src/tree-sitter-go/grammar.js
+Git repo name: tree-sitter-go
+Latest commit in repo: dadfd9c9aab2630632e61cfce645c13c35aa092f
+Last change in file:
+  commit b0c78230146705e867034e49a5ece20245b33490
+  Author: Max Brunsfeld <maxbrunsfeld@gmail.com>
+  Date:   Thu Jul 9 14:39:54 2020 -0700
+  
+      Allow statements at the top level
+      
+      This improves parsing of code snippets, as often appear in markdown readmes
+---
+File: semgrep-grammars/src/semgrep-go/grammar.js
+Git repo name: ocaml-tree-sitter-languages
+Latest commit in repo: 13bfbba521ac1f25b07a7791ef58948d707712d0
+Last change in file:
+  commit 9b59bf4de55a94ebfeae44ad37b628ef1e2dd8c8
+  Author: Martin Jambon <martin@returntocorp.com>
+  Date:   Wed Feb 17 16:49:53 2021 -0800
+  
+      Modernize/fix setup for go
+---
